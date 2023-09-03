@@ -15,6 +15,3 @@ public class ProjectListBackendDataRestApplication {
 	}
 
 }
-
-
-// token : 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
